@@ -1,0 +1,61 @@
+.mainheading {
+  color: #183b56;
+  font-style: italic;
+}
+
+.paragraph {
+ 
+  font-size: 25px;
+  font-family: roboto;
+}
+
+.card-1 {
+  height: 100%;
+  width: 100%;
+  background-color: white;
+  border-radius: 10px;
+}
+
+.image {
+  height: 50px;
+ 
+}
+
+
+.heading-1 {
+  font-size: 25px;
+  font-style: oblique;
+
+}
+
+.paragraph-1 {
+  font-family: serif;
+  font-weight: bold;
+  color: black;
+}
+.book-logo{
+height: 100px;
+
+}
+.div-container{
+ 
+  margin: 50px;
+  padding: 100px;
+  background-color:rgb(255, 251, 252);
+  
+  }
+  .linkedin{
+    border: solid;
+    background-color:hwb(45 96% 3%);
+    border-color: rgb(6, 1, 1);
+    padding: 15px;
+   
+    
+  }
+  .bg-linkedin{
+    color: black;
+    font-size: 20px;
+    margin: 20px;
+    font-style: oblique;
+  }
+  
